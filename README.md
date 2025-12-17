@@ -57,7 +57,7 @@ GOOGLE_API_KEY="your_api_key_here"
 ## 에이전트 실행
 **터미널 환경**
 ```bash
-adk run agents
+adk run <agent_name>
 ```
 **웹 환경**
 ```bash
